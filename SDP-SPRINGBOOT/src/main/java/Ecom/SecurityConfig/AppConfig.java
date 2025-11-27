@@ -34,7 +34,7 @@ public class AppConfig {
 
                             cfg.setAllowedOriginPatterns(Collections.singletonList("*"));
 //                            cfg.setAllowedOriginPatterns(Collections.singletonList("https://eccomers96.netlify.app/"));
-                            cfg.setAllowedOriginPatterns(Collections.singletonList("http://localhost:31098"));
+                            cfg.setAllowedOriginPatterns(Collections.singletonList("http://localhost:5173"));
                             cfg.setAllowedMethods(Collections.singletonList("*"));
         
                             cfg.setAllowCredentials(true);
